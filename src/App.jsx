@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-     <h2 className='text-center shadow'>Lets Buld Drago</h2>
+     <h2 className='text-center shadow'>Lets Buld Dragon</h2>
     </>
   )
 }
